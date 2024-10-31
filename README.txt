@@ -1,1 +1,1 @@
-Using the GitHub Desktop Application.
+Using the GitHub Desktop Application
