@@ -1,1 +1,1 @@
-Hello Desktop Git
+Using the GitHub Desktop Application.
